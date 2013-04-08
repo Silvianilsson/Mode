@@ -2,7 +2,6 @@ package blog;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class blog {
 	public List <blogginlagg> Lista = new ArrayList<blogginlagg>();
 	public String name;
