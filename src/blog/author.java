@@ -33,4 +33,13 @@ public class author {
 		this.email = email;
 	}
 
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		print();
+		return "hej";
+	}
+	
+	
+
 }
